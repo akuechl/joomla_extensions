@@ -8,7 +8,7 @@
         <client>0</client>
         <version>2.3.3_mod_0.3</version>
         <downloads>
-            <downloadurl type="full" format="zip">http://www.mavik.com.ua/download/mavikthumbnails_2.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/admiralsmaster/joomla_extensions/releases/download/mt_mod_2.3.3_mod0.3/mavikthumbnails_2.3.3_mod_0.3.zip</downloadurl>
         </downloads>
         <maintainer>admiralsmaster</maintainer>
         <maintainerurl>https://github.com/admiralsmaster/</maintainerurl>
