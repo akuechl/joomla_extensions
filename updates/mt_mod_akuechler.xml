@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name>mavikThumbnails 2 Mod</name>
+        <name>mavikThumbnails 2 Mod Joomla 3</name>
         <description>Plugin mavikThumbnails 2</description>
         <element>pkg_mavikthumbnails</element>
         <type>package</type>
         <client>0</client>
         <version>2.3.3_mod_0.3</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/admiralsmaster/joomla_extensions/releases/download/mt_mod_2.3.3_mod0.3/mavikthumbnails_2.3.3_mod_0.3.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/akuechl/joomla_extensions/releases/download/mt_mod_2.3.3_mod0.3/mavikthumbnails_2.3.3_mod_0.3.zip</downloadurl>
         </downloads>
         <maintainer>admiralsmaster</maintainer>
         <maintainerurl>https://github.com/admiralsmaster/</maintainerurl>
-        <targetplatform name="joomla" version="3.[1234567]"/>
+        <targetplatform name="joomla" version="3.[123456789]"/>
+     </update>
+    <update>
+        <name>mavikThumbnails 2 Mod Joomla 4</name>
+        <description>Plugin mavikThumbnails 2</description>
+        <element>pkg_mavikthumbnails</element>
+        <type>package</type>
+        <client>0</client>
+        <version>2.3.3_mod_0.4</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/akuechl/joomla_extensions/releases/download/mt_mod_2.3.3_mod0.4/pkg_mavikthumbnails_2.3.3_mod_0.4.zip</downloadurl>
+        </downloads>
+        <maintainer>admiralsmaster</maintainer>
+        <maintainerurl>https://github.com/admiralsmaster/</maintainerurl>
+        <targetplatform name="joomla" version="4.[123456789]"/>
      </update>
  </updates>
